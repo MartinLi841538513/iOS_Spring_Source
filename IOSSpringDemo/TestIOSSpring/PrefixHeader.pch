@@ -1,0 +1,1 @@
+#define PrexURL @"http://hnuzxchsk.eicp.net:18385/shop/"#import <SVProgressHUD/SVProgressHUD.h>#import <UIKit/UIKit.h>#import "SharedAction.h"
