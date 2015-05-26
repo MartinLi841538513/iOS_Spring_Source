@@ -4,11 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Base.lproj/Main.storyboardc/BuyViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oI/nUSxB+KpWRQqidvhjpUd0VFY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/ENQ-dW-VZN-view-565-5g-Byw.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			43FVW6BQUcpTjnzfACyKWn9fy24=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/IndexViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ay22II9NnMOevi4FdKYd52W9OQc=
+			+rj9yc6TTD1/Xi1/A4q6ieBjke4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17,7 +35,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6+R+d5aisAtL5AzKPuanssNwRzY=
+			GnQNsfT7gvEqM1vwqZqkirk2/eQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -26,7 +44,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8IZqwseXVlzUvZO0M7+o9bdJk2g=
+			QJhhv4Tr+VKOlQ+DL7514gFrILo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -35,7 +53,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CPwE924BNbXt+tbAf8wLtWPjTsc=
+			/xTS7TO/f/xU0IdQhtJ+JPGO+Gg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -44,7 +62,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R0LI9x81l4Y1sW116rhJvvQitL0=
+			lHa2RrvQa1qA8qT1fFp35Soe5Ng=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -53,19 +71,49 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t9xHNlViT9CratGbPitsoO2CGtA=
+			mR/fFmBVkaPwvQ3sXR/E5v3XmW4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/alipay10.JPG</key>
+		<data>
+		xhp0rbpIdnPYUl0Mc4C0BwwUSKg=
+		</data>
+		<key>Resources/alipay200.JPG</key>
+		<data>
+		nXcAOKL6EaabILGC0azNvphr/II=
+		</data>
+		<key>Resources/alipay50.JPG</key>
+		<data>
+		4b3YxI0H22YH2sn4ARXPiRa9Kug=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/Base.lproj/Main.storyboardc/BuyViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oI/nUSxB+KpWRQqidvhjpUd0VFY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/ENQ-dW-VZN-view-565-5g-Byw.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			43FVW6BQUcpTjnzfACyKWn9fy24=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/IndexViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ay22II9NnMOevi4FdKYd52W9OQc=
+			+rj9yc6TTD1/Xi1/A4q6ieBjke4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -74,7 +122,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6+R+d5aisAtL5AzKPuanssNwRzY=
+			GnQNsfT7gvEqM1vwqZqkirk2/eQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -83,7 +131,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8IZqwseXVlzUvZO0M7+o9bdJk2g=
+			QJhhv4Tr+VKOlQ+DL7514gFrILo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -92,7 +140,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CPwE924BNbXt+tbAf8wLtWPjTsc=
+			/xTS7TO/f/xU0IdQhtJ+JPGO+Gg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -101,7 +149,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R0LI9x81l4Y1sW116rhJvvQitL0=
+			lHa2RrvQa1qA8qT1fFp35Soe5Ng=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -110,11 +158,23 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t9xHNlViT9CratGbPitsoO2CGtA=
+			mR/fFmBVkaPwvQ3sXR/E5v3XmW4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/alipay10.JPG</key>
+		<data>
+		xhp0rbpIdnPYUl0Mc4C0BwwUSKg=
+		</data>
+		<key>Resources/alipay200.JPG</key>
+		<data>
+		nXcAOKL6EaabILGC0azNvphr/II=
+		</data>
+		<key>Resources/alipay50.JPG</key>
+		<data>
+		4b3YxI0H22YH2sn4ARXPiRa9Kug=
+		</data>
 	</dict>
 	<key>rules</key>
 	<dict>
